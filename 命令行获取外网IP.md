@@ -13,5 +13,8 @@ telnet ipv4.telnetmyip.com
 ssh -6 sshmyip.com
 ssh -4 sshmyip.com
 curl -6 ifconfig.io
+curl -4 ifconfig.io
 curl -4 ip.threep.top
+curl -4 ip.fm
+curl -4 cip.cc
 ```
