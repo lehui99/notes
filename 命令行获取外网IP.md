@@ -20,6 +20,8 @@ curl -6 https://api.myip.com
 curl -4 https://api.myip.com
 curl -6 cloudflare.com/cdn-cgi/trace
 curl -4 cloudflare.com/cdn-cgi/trace
+curl -6 ip.fht.im
+curl -4 ip.fht.im
 
 curl -4 ip.threep.top
 curl -4 ip.fm
