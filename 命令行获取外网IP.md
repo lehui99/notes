@@ -9,4 +9,6 @@ curl -6 https://ipv6.icanhazip.com
 curl -4 https://ipv4.icanhazip.com
 telnet ipv6.telnetmyip.com
 telnet ipv4.telnetmyip.com
+ssh -6 sshmyip.com
+ssh -4 sshmyip.com
 ```
