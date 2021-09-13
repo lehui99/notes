@@ -14,10 +14,14 @@ ssh -6 sshmyip.com
 ssh -4 sshmyip.com
 curl -6 ifconfig.io
 curl -4 ifconfig.io
+curl -6 ip.sb
+curl -4 ip.sb
+curl -6 https://api.myip.com
+curl -4 https://api.myip.com
+
 curl -4 ip.threep.top
 curl -4 ip.fm
 curl -4 cip.cc
 curl -4 myip.ipip.net
-curl -6 ip.sb
-curl -4 ip.sb
+curl -4 checkip.dyndns.com
 ```
