@@ -1,4 +1,3 @@
-# 仅列表，排名不分先后，好坏自己判断
 ```
 curl -6 https://ifconfig.co
 curl -4 https://ifconfig.co
@@ -33,7 +32,7 @@ curl -4 https://myip.biturl.top
 curl -4 https://checkip.amazonaws.com
 curl -4 https://httpbin.org/ip
 curl -4 https://pv.sohu.com/cityjson
-curl -4 'https://api.ipify.org?format=json'
+curl -4 "https://api.ipify.org?format=json"
 curl -4 https://lerry.me/ip
 curl -4 https://xabc.io/p
 curl -4 https://api.akkariin.com:24443/getip/
