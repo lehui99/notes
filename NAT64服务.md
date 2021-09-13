@@ -1,5 +1,3 @@
-# 仅列表，排名不分先后，好坏自己判断
-
 [Public NAT64 Services](https://nat64.xyz/)
 
 <table class="table table-hover" id="services">
