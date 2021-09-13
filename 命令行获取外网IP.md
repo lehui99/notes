@@ -17,4 +17,7 @@ curl -4 ifconfig.io
 curl -4 ip.threep.top
 curl -4 ip.fm
 curl -4 cip.cc
+curl -4 myip.ipip.net
+curl -6 ip.sb
+curl -4 ip.sb
 ```
