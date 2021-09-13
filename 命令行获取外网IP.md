@@ -33,5 +33,6 @@ curl -4 https://httpbin.org/ip
 curl -4 https://pv.sohu.com/cityjson
 curl -4 'https://api.ipify.org?format=json'
 curl -4 https://lerry.me/ip
+curl -4 https://xabc.io/p
 curl -4 checkip.dyndns.com
 ```
