@@ -23,13 +23,13 @@ telnet ipv4.telnetmyip.com
 ssh -6 sshmyip.com
 ssh -4 sshmyip.com
 
-curl -4 ip.threep.top
-curl -4 ip.fm
-curl -4 cip.cc
-curl -4 myip.ipip.net
-curl -4 checkip.dyndns.com
+curl -4 https://ip.threep.top
+curl -4 https://ip.fm
+curl -4 https://cip.cc
+curl -4 https://myip.ipip.net
 curl -4 https://myip.biturl.top
-curl -4 checkip.amazonaws.com
-curl -4 httpbin.org/ip
-curl -4 http://pv.sohu.com/cityjson
+curl -4 https://checkip.amazonaws.com
+curl -4 https://httpbin.org/ip
+curl -4 https://pv.sohu.com/cityjson
+curl -4 checkip.dyndns.com
 ```
