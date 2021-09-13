@@ -12,6 +12,8 @@ curl -6 https://cloudflare.com/cdn-cgi/trace
 curl -4 https://cloudflare.com/cdn-cgi/trace
 curl -6 https://ip.fht.im
 curl -4 https://ip.fht.im
+curl -6 https://bot.whatismyipaddress.com
+curl -4 https://bot.whatismyipaddress.com
 curl -6 ip.sb
 curl -4 ip.sb
 dig -6 TXT +short o-o.myaddr.l.google.com @ns1.google.com
