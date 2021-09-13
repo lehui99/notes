@@ -31,5 +31,6 @@ curl -4 https://myip.biturl.top
 curl -4 https://checkip.amazonaws.com
 curl -4 https://httpbin.org/ip
 curl -4 https://pv.sohu.com/cityjson
+curl -4 'https://api.ipify.org?format=json'
 curl -4 checkip.dyndns.com
 ```
