@@ -21,6 +21,8 @@ dig -6 -t aaaa +short myip.opendns.com @resolver1.opendns.com
 dig -4 -t a +short myip.opendns.com @resolver1.opendns.com
 telnet ipv6.telnetmyip.com
 telnet ipv4.telnetmyip.com
+telnet -6 telnetmyip.com
+telnet -4 telnetmyip.com
 ssh -6 sshmyip.com
 ssh -4 sshmyip.com
 
