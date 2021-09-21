@@ -15,6 +15,8 @@ curl -6 https://bot.whatismyipaddress.com
 curl -4 https://bot.whatismyipaddress.com
 curl -6 https://www.jsonip.com
 curl -4 https://www.jsonip.com
+curl -6 https://www.trackip.net/ip?json
+curl -4 https://www.trackip.net/ip?json
 curl -6 ip.sb
 curl -4 ip.sb
 dig -6 TXT +short o-o.myaddr.l.google.com @ns1.google.com
