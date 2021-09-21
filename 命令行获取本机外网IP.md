@@ -42,6 +42,7 @@ curl -4 https://xabc.io/p
 curl -4 https://api.akkariin.com:24443/getip/
 curl -4 https://ipinfo.io/ip
 curl -4 https://ifconfig.me/ip
+curl -4 https://ipgrab.io
 curl -4k https://whatismyip.akamai.com
 curl -4 checkip.dyndns.com
 ```
