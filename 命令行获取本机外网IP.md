@@ -15,6 +15,8 @@ curl -6 https://bot.whatismyipaddress.com
 curl -4 https://bot.whatismyipaddress.com
 curl -6 https://www.jsonip.com
 curl -4 https://www.jsonip.com
+curl -6 https://www.trackip.net/ip
+curl -4 https://www.trackip.net/ip
 curl -6 https://www.trackip.net/ip?json
 curl -4 https://www.trackip.net/ip?json
 curl -6 ip.sb
