@@ -46,4 +46,5 @@ curl -4 https://ipgrab.io
 curl -4 https://myexternalip.com/raw
 curl -4k https://whatismyip.akamai.com
 curl -4 checkip.dyndns.com
+curl -4 checkip.dyndns.org
 ```
