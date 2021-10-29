@@ -6,4 +6,4 @@
 
 [RU VDS](https://ruvds.com/en-usd) 0.6$/m
 
-[WebHorizon](https://webhorizon.in/)
+[WebHorizon](https://webhorizon.in/) 4$/yr NAT VPS
