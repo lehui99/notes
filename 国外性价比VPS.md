@@ -7,3 +7,5 @@
 [RU VDS](https://ruvds.com/en-usd) 0.6$/m
 
 [WebHorizon](https://webhorizon.in/) 4$/yr NAT VPS
+
+[Scaleway](https://www.scaleway.com/) Stardust删除IPv4后纯IPv6 €0.0005/hour
