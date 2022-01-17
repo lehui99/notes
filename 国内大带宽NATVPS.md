@@ -10,6 +10,6 @@
 
 [碳云](https://www.coalcloud.net/)
 
-[半月灣](https://hmbcloud.com/)
+~~[半月灣](https://hmbcloud.com/)（[评价](https://hostloc.com/thread-958455-1-1.html)）~~
 
 [Crastar Cloud](https://www.crastar.com/)
