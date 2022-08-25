@@ -9,3 +9,5 @@
 [WebHorizon](https://webhorizon.in/) 4$/yr NAT VPS
 
 [Scaleway](https://www.scaleway.com/) Stardust删除IPv4后纯IPv6 €0.0005/hour
+
+[BudgetVM](https://budgetvm.host/) 0.39€/mo 100 public IPv4 Ports
