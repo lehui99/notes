@@ -14,4 +14,4 @@
 
 [NATVPS UK LTD](https://clients.natvps.uk/index.php?rp=/store/nat-vps-sale)：[128MB RAM £2/yr](https://clients.natvps.uk/index.php?rp=/store/nat-vps-sale/uk-nat-vps-128-annual-billing)、[256MB RAM £3/yr](https://clients.natvps.uk/index.php?rp=/store/nat-vps-sale/uk-nat-vps-256-annual-billing)
 
-[iHostART.Com](https://panel.ihostart.com/index.php?rp=/store/nat64)：[VPS NAT64 (1 GB KVM), 0 public IPv4 Ports](https://panel.ihostart.com/index.php?rp=/store/nat64/1g)
+[iHostART.Com](https://panel.ihostart.com/index.php?rp=/store/nat64)：[1GB KVM VPS NAT64 (0 IPv4 ports(only outgoing) + 1 IPv6)](https://panel.ihostart.com/index.php?rp=/store/nat64/1g)
