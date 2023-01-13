@@ -1,6 +1,6 @@
 [Public NAT64 Services](https://nat64.xyz/)
 
-<table class="table table-hover" id="services">
+<table>
 					<thead>
 						<tr>
 							<th scope="col">Provider</th>
@@ -114,3 +114,5 @@
 						</tr>
 											</tbody>
 				</table>
+
+[GitHub IPv6 proxy](https://danwin1210.de/github-ipv6-proxy.php)
