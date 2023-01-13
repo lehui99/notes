@@ -115,6 +115,8 @@
 	</tbody>
 </table>
 
+
+
 [GitHub IPv6 proxy](https://danwin1210.de/github-ipv6-proxy.php)
 ```
 2a01:4f8:c010:d56::2 github.com
